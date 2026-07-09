@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*_scrubbed/
+*_scrubbed.zip
+*.scrubbed.txt
+shush_*/
+_shush_report.json
+.commitshow/
+LAUNCH.md
+.DS_Store
+.venv/

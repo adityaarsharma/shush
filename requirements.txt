@@ -1,0 +1,4 @@
+# Core tool needs ZERO dependencies (stdlib only) for text, .docx, csv, json, etc.
+# Install these only if you need PDF or Excel support:
+pypdf>=4.0        # .pdf
+openpyxl>=3.1     # .xlsx
