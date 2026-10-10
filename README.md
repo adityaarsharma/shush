@@ -13,6 +13,8 @@ Strip PII &amp; secrets from any file before you paste it into ChatGPT, Claude, 
   <img src="https://img.shields.io/badge/network-none-red" alt="No network">
 </p>
 
+<p align="center"><a href="https://ko-fi.com/adityaarsharma"><img src="https://img.shields.io/badge/Leave%20a%20tip-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Leave a tip on Ko-fi"></a></p>
+
 ---
 
 > **You wouldn't commit your `.env` to GitHub. Stop pasting it into ChatGPT.**
